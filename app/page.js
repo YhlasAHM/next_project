@@ -19,7 +19,7 @@ export default function Home() {
 
   return (
     <>
-      <main className="text-white min-h-screen flex flex-col">
+      <main className="text-white min-h-screen">
         <div className='pl-[13px] pr-[13px]'>
           <div className='flex justify-between h-[50px]'>
             <div className='flex gap-[10px] w-full items-center h-full'>

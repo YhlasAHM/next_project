@@ -1,4 +1,4 @@
-'use client'
+/* 'use client'
 
 const Id = ({ params }) => {
 
@@ -11,4 +11,4 @@ const Id = ({ params }) => {
     )
 }
 
-export default Id
+export default Id */

@@ -1,4 +1,4 @@
-'use client'
+/* 'use client'
 import React from 'react'
 import Card_ from '../components/card/Card'
 
@@ -27,4 +27,4 @@ const Products = () => {
     )
 }
 
-export default Products
+export default Products */
