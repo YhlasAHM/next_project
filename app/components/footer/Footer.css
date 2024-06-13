@@ -1,0 +1,27 @@
+/* Рисовать */
+
+
+.text__ {
+    width: 42px;
+    height: 14px;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 14px;
+    /* identical to box height, or 140% */
+    text-align: center;
+    letter-spacing: 0.015em;
+    color: #FFFFFF;
+}
+
+/* Кнопка "Бусты" */
+
+/* Auto layout */
+
+.icon_wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 5px;
+}
